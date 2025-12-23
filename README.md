@@ -39,7 +39,7 @@
 | Halaman Login | Dashboard Utama |
 | :---: | :---: |
 | <img width="1920" height="1080" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/68aad343-bc73-4e3e-a606-d75f50f11506" />
- | *![Uploading Screenshot 2025-12-23 161158.png…]()
-* |
+ | <img width="1920" height="1080" alt="Screenshot 2025-12-23 161158" src="https://github.com/user-attachments/assets/b6a2c767-0d48-4381-acad-6df4202e4d87" />
+|
 
 ---
