@@ -38,6 +38,14 @@
 
 | **Halaman Login** | 
 | :---: | 
-| <img width="450" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/6758bce7-e90d-400c-8123-7930288c1a92" /> |
+| <img width="1920" height="1080" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/6758bce7-e90d-400c-8123-7930288c1a92" /> |
+
+| **Dashboard** | 
+| :---: | 
+| <img width="1920" height="1080" alt="Screenshot 2025-12-23 161143" src="https://github.com/user-attachments/assets/e9d897c5-7d85-4f58-8e30-a8fcc5e2bb62" /> |
+
+| **Halaman Kelola Invetaris** | 
+| :---: | 
+| <img width="1920" height="1080" alt="Screenshot 2025-12-23 161158" src="https://github.com/user-attachments/assets/fb6005f5-d08a-41b0-9729-33f980f948ad" /> |
 
 ---
