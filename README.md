@@ -36,7 +36,7 @@ Aplikasi ini mengusung filosofi *User-Centered Design* dengan fitur-fitur kritik
 
 | Halaman Login | 
 | :--- |
-|(<img width="960" height="540" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/403fe572-8744-4af9-bf07-aac80a917f80" />|
+|<img width="960" height="540" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/403fe572-8744-4af9-bf07-aac80a917f80" />|
 
 | Halaman Dashboard | 
 | :--- |
