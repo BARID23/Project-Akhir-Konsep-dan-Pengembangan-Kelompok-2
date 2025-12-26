@@ -40,13 +40,11 @@ Aplikasi ini mengusung filosofi *User-Centered Design* dengan fitur-fitur kritik
 
 | Halaman Dashboard | 
 | :--- |
-|(<img width="1920" height="1080" alt="Screenshot 2025-12-23 161143" src="https://github.com/user-attachments/assets/a1f7af4c-01f4-434d-80b6-7d0b1cfe5493" />
-|
+|<img width="1920" height="1080" alt="Screenshot 2025-12-23 161143" src="https://github.com/user-attachments/assets/a1f7af4c-01f4-434d-80b6-7d0b1cfe5493" />|
 
 | Kelola Invetaris | 
 | :--- |
-|(<img width="1920" height="1080" alt="Screenshot 2025-12-23 161158" src="https://github.com/user-attachments/assets/84ec5d14-dcdb-4e07-982b-f53f265cc6d4" />
-|
+|<img width="1920" height="1080" alt="Screenshot 2025-12-23 161158" src="https://github.com/user-attachments/assets/84ec5d14-dcdb-4e07-982b-f53f265cc6d4" />|
 
 
 
