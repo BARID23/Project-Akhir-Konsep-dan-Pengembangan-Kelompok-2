@@ -36,7 +36,9 @@ Aplikasi ini mengusung filosofi *User-Centered Design* dengan fitur-fitur kritik
 
 | Halaman Login | Dashboard Utama | Manajemen Barang |
 | :--- | :--- | :--- |
-| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard+UI) | ![Table](https://via.placeholder.com/300x200?text=Inventory+Table) |
+| ![Login](<img width="1920" height="1080" alt="Screenshot 2025-12-23 160923" src="https://github.com/user-attachments/assets/403fe572-8744-4af9-bf07-aac80a917f80" />
+) | ![Dashboard](<img width="1920" height="1080" alt="Screenshot 2025-12-23 161143" src="https://github.com/user-attachments/assets/c05eaea8-f470-4703-a479-d0635c99927f" />
+) | ![Table](https://via.placeholder.com/300x200?text=Inventory+Table) |
 | [cite_start]*Keamanan berlapis dengan fitur "Ingat akun saya"*[cite: 242]. | [cite_start]*Personalized User Experience (Welcome Banner)*[cite: 256]. | [cite_start]*Monitoring status barang "Tersedia" secara visual*[cite: 273]. |
 
 ---
